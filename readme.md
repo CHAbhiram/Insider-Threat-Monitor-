@@ -109,14 +109,14 @@ pip install -r requirements.txt
 ## 🖼️ Screenshots
 
 ### 1. **Login Page**
-![Admin Login](<img width="1880" height="971" alt="Screenshot 2025-08-28 180800" src="https://github.com/user-attachments/assets/7dc5a907-79bb-441b-9cb4-e1e102a17422" />
-)
+<img width="1880" height="971" alt="Screenshot 2025-08-28 180800" src="https://github.com/user-attachments/assets/7dc5a907-79bb-441b-9cb4-e1e102a17422" />
+
 - **Default Credentials**: `admin / admin123`
 - **Secure authentication** ensures only authorized users can access sensitive data.
 
 ### 2. **Dashboard Home**
-![Dashboard Home](<img width="1880" height="973" alt="Screenshot 2025-08-28 180852" src="https://github.com/user-attachments/assets/73dad407-aa1d-4581-92dd-9a788b9744ae" />
-)
+<img width="1880" height="973" alt="Screenshot 2025-08-28 180852" src="https://github.com/user-attachments/assets/73dad407-aa1d-4581-92dd-9a788b9744ae" />
+
 - **Stats at a Glance**:
   - Total Events
   - Users
@@ -124,14 +124,14 @@ pip install -r requirements.txt
 - **Login Activity Chart**: Shows non-zero hours with login activity.
 
 ### 3. **Detected Threats**
-![Detected Threats](<img width="1879" height="971" alt="Screenshot 2025-08-28 180915" src="https://github.com/user-attachments/assets/e0ed4fb1-16aa-4cc5-a1e9-7704824000f2" />
-)
+<img width="1879" height="971" alt="Screenshot 2025-08-28 180915" src="https://github.com/user-attachments/assets/e0ed4fb1-16aa-4cc5-a1e9-7704824000f2" />
+
 - **Detailed Alerts**: Lists suspicious activities with timestamps, risk levels, and descriptions.
 - **High-risk events** are highlighted for quick action.
 
 ### 4. **Live Feed**
-![Live Feed](<img width="1886" height="969" alt="Screenshot 2025-08-28 181006" src="https://github.com/user-attachments/assets/d17364db-e6c8-4c3c-b273-3349a6efa08c" />
-)
+<img width="1886" height="969" alt="Screenshot 2025-08-28 181006" src="https://github.com/user-attachments/assets/d17364db-e6c8-4c3c-b273-3349a6efa08c" />
+
 - **Real-time Updates**: Displays ongoing events as they occur.
 - **Risk Levels**: Indicates severity for each event.
 
@@ -194,3 +194,4 @@ Deploy to:
 
 
 ---
+
