@@ -1,0 +1,6 @@
+flask==2.3.3
+evtx==0.8.1
+pandas==2.1.1
+lxml==4.9.3
+requests==2.31.0
+gunicorn==21.2.0  # for production

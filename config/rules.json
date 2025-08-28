@@ -1,0 +1,8 @@
+{
+  "after_hours_window": [2, 5],
+  "file_access_threshold": 50,
+  "critical_event_ids": [4624, 4663, 4664, 4688],
+  "alert_emails": [],
+  "description": "Detection rules for insider threat monitoring",
+  "version": "1.0"
+}

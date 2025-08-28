@@ -1,0 +1,14 @@
+/* dashboard/static/style.css */
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+.card {
+    border: 1px solid #333;
+}
+
+.btn-danger {
+    background-color: #d9534f;
+    border-color: #d9534f;
+}
